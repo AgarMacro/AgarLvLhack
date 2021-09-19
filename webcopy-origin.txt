@@ -1,0 +1,228 @@
+Uri: https://стандофф-2.рф/generator-standoff-2.html
+File Name: C:\Downloaded Web Sites\стандофф-2.рф\generator-standoff-2.html
+Content Type: text/html
+
+Uri: https://стандофф-2.рф/favicon.png
+File Name: C:\Downloaded Web Sites\стандофф-2.рф\favicon.png
+Content Type: image/png
+
+Uri: https://стандофф-2.рф/
+File Name: C:\Downloaded Web Sites\стандофф-2.рф\index.htm
+Content Type: text/html
+
+Uri: https://стандофф-2.рф/css1/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\стандофф-2.рф\css1\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://стандофф-2.рф/css1/outdatedbrowser.min.css
+File Name: C:\Downloaded Web Sites\стандофф-2.рф\css1\outdatedbrowser.min.css
+Content Type: text/css
+
+Uri: https://стандофф-2.рф/css1/sweet-alert.css
+File Name: C:\Downloaded Web Sites\стандофф-2.рф\css1\sweet-alert.css
+Content Type: text/css
+
+Uri: https://стандофф-2.рф/css1/animate.css
+File Name: C:\Downloaded Web Sites\стандофф-2.рф\css1\animate.css
+Content Type: text/css
+
+Uri: https://стандофф-2.рф/css1/magnific-popup.css
+File Name: C:\Downloaded Web Sites\стандофф-2.рф\css1\magnific-popup.css
+Content Type: text/css
+
+Uri: https://стандофф-2.рф/css1/hover-min.css
+File Name: C:\Downloaded Web Sites\стандофф-2.рф\css1\hover-min.css
+Content Type: text/css
+
+Uri: https://стандофф-2.рф/css1/style.css
+File Name: C:\Downloaded Web Sites\стандофф-2.рф\css1\style.css
+Content Type: text/css
+
+Uri: https://стандофф-2.рф/css1/jquery-labelauty.css
+File Name: C:\Downloaded Web Sites\стандофф-2.рф\css1\jquery-labelauty.css
+Content Type: text/css
+
+Uri: https://стандофф-2.рф/css1/fontawesome-all.css
+File Name: C:\Downloaded Web Sites\стандофф-2.рф\css1\fontawesome-all.css
+Content Type: text/css
+
+Uri: https://tutcode.ru/
+File Name: C:\Downloaded Web Sites\стандофф-2.рф\index-1.htm
+Content Type: text/html
+
+Uri: https://стандофф-2.рф/js1/jquery.min.js
+File Name: C:\Downloaded Web Sites\стандофф-2.рф\js1\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://стандофф-2.рф/js1/jquery-labelauty.js
+File Name: C:\Downloaded Web Sites\стандофф-2.рф\js1\jquery-labelauty.js
+Content Type: application/javascript
+
+Uri: https://стандофф-2.рф/js1/load.js
+File Name: C:\Downloaded Web Sites\стандофф-2.рф\js1\load.js
+Content Type: application/javascript
+
+Uri: https://стандофф-2.рф/img/standoff-2-gold.png
+File Name: C:\Downloaded Web Sites\стандофф-2.рф\img\standoff-2-gold.png
+Content Type: image/png
+
+Uri: https://стандофф-2.рф/js1/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\стандофф-2.рф\js1\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://стандофф-2.рф/js1/outdatedbrowser.min.js
+File Name: C:\Downloaded Web Sites\стандофф-2.рф\js1\outdatedbrowser.min.js
+Content Type: application/javascript
+
+Uri: https://стандофф-2.рф/js1/sweet-alert.min.js
+File Name: C:\Downloaded Web Sites\стандофф-2.рф\js1\sweet-alert.min.js
+Content Type: application/javascript
+
+Uri: https://стандофф-2.рф/js1/bootbox.min.js
+File Name: C:\Downloaded Web Sites\стандофф-2.рф\js1\bootbox.min.js
+Content Type: application/javascript
+
+Uri: https://стандофф-2.рф/js1/jquery.backstretch.min.js
+File Name: C:\Downloaded Web Sites\стандофф-2.рф\js1\jquery.backstretch.min.js
+Content Type: application/javascript
+
+Uri: https://стандофф-2.рф/js1/jquery.animatecss.min.js
+File Name: C:\Downloaded Web Sites\стандофф-2.рф\js1\jquery.animatecss.min.js
+Content Type: application/javascript
+
+Uri: https://стандофф-2.рф/js1/jquery.noty.packaged.min.js
+File Name: C:\Downloaded Web Sites\стандофф-2.рф\js1\jquery.noty.packaged.min.js
+Content Type: application/javascript
+
+Uri: https://стандофф-2.рф/js1/faker.min.js
+File Name: C:\Downloaded Web Sites\стандофф-2.рф\js1\faker.min.js
+Content Type: application/javascript
+
+Uri: https://стандофф-2.рф/js1/dynatexer.dev.js
+File Name: C:\Downloaded Web Sites\стандофф-2.рф\js1\dynatexer.dev.js
+Content Type: application/javascript
+
+Uri: https://стандофф-2.рф/js1/jquery.magnific-popup.min.js
+File Name: C:\Downloaded Web Sites\стандофф-2.рф\js1\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://стандофф-2.рф/js1/jquery.flexverticalcenter.js
+File Name: C:\Downloaded Web Sites\стандофф-2.рф\js1\jquery.flexverticalcenter.js
+Content Type: application/javascript
+
+Uri: https://стандофф-2.рф/js1/jquery.countdown.min.js
+File Name: C:\Downloaded Web Sites\стандофф-2.рф\js1\jquery.countdown.min.js
+Content Type: application/javascript
+
+Uri: https://стандофф-2.рф/js1/magnific-popup.min.js
+File Name: C:\Downloaded Web Sites\стандофф-2.рф\js1\magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://стандофф-2.рф/js1/main.js
+File Name: C:\Downloaded Web Sites\стандофф-2.рф\js1\main.js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-161796375-1
+File Name: C:\Downloaded Web Sites\стандофф-2.рф\gtag\js.js
+Content Type: application/javascript
+
+Uri: https://стандофф-2.рф/poster/standoff.jpg
+File Name: C:\Downloaded Web Sites\стандофф-2.рф\poster\standoff.jpg
+Content Type: image/jpeg
+
+Uri: https://стандофф-2.рф/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\стандофф-2.рф\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://стандофф-2.рф/css/landing.css
+File Name: C:\Downloaded Web Sites\стандофф-2.рф\css\landing.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=PT+Sans:400,700&subset=cyrillic
+File Name: C:\Downloaded Web Sites\стандофф-2.рф\css.css
+Content Type: text/css
+
+Uri: https://стандофф-2.рф/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\стандофф-2.рф\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://стандофф-2.рф/css/style.css
+File Name: C:\Downloaded Web Sites\стандофф-2.рф\css\style.css
+Content Type: text/css
+
+Uri: https://стандофф-2.рф/play/video-js.css
+File Name: C:\Downloaded Web Sites\стандофф-2.рф\play\video-js.css
+Content Type: text/css
+
+Uri: https://ya-distrib.ru/r/14760/
+File Name: C:\Downloaded Web Sites\стандофф-2.рф\r\14760\index.htm
+Content Type: text/html
+
+Uri: https://стандофф-2.рф/js/jquery.js
+File Name: C:\Downloaded Web Sites\стандофф-2.рф\js\jquery.js
+Content Type: application/javascript
+
+Uri: https://стандофф-2.рф/play/videojs-ie8.min.js
+File Name: C:\Downloaded Web Sites\стандофф-2.рф\play\videojs-ie8.min.js
+Content Type: application/javascript
+
+Uri: https://стандофф-2.рф/standoff-2-cheats.png
+File Name: C:\Downloaded Web Sites\стандофф-2.рф\standoff-2-cheats.png
+Content Type: image/png
+
+Uri: https://стандофф-2.рф/img/Standoff-2-Hack.jpg
+File Name: C:\Downloaded Web Sites\стандофф-2.рф\img\Standoff-2-Hack.jpg
+Content Type: image/jpeg
+
+Uri: https://стандофф-2.рф/Yandex.png
+File Name: C:\Downloaded Web Sites\стандофф-2.рф\Yandex.png
+Content Type: image/png
+
+Uri: https://стандофф-2.рф/video/Standoff-2-Hack.mp4
+File Name: C:\Downloaded Web Sites\стандофф-2.рф\video\Standoff-2-Hack.mp4
+Content Type: video/mp4
+
+Uri: https://стандофф-2.рф/play/video.js
+File Name: C:\Downloaded Web Sites\стандофф-2.рф\play\video.js
+Content Type: application/javascript
+
+Uri: https://yastatic.net/es5-shims/0.0.2/es5-shims.min.js
+File Name: C:\Downloaded Web Sites\стандофф-2.рф\es5-shims\0.0.2\es5-shims.min.js
+Content Type: application/x-javascript
+
+Uri: https://yastatic.net/share2/share.js
+File Name: C:\Downloaded Web Sites\стандофф-2.рф\share2\share.js
+Content Type: application/javascript
+
+Uri: https://counter.yadro.ru/logo?24.5
+File Name: C:\Downloaded Web Sites\стандофф-2.рф\logo.gif
+Content Type: image/gif
+
+Uri: https://стандофф-2.рф/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\стандофф-2.рф\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js
+File Name: C:\Downloaded Web Sites\стандофф-2.рф\ajax\libs\jquery\2.1.4\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://fonts.googleapis.com/css?family=PT+Sans
+File Name: C:\Downloaded Web Sites\стандофф-2.рф\css-1.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Russo+One
+File Name: C:\Downloaded Web Sites\стандофф-2.рф\css-2.css
+Content Type: text/css
+
+Uri: https://mc.yandex.ru/watch/61319419/1
+File Name: C:\Downloaded Web Sites\стандофф-2.рф\watch\61319419\1.gif
+Content Type: image/gif
+
+Uri: https://top-fwz1.mail.ru/counter2?id=3167753;js=na
+File Name: C:\Downloaded Web Sites\стандофф-2.рф\counter2.gif
+Content Type: image/gif
+
+Uri: https://www.liveinternet.ru/
+File Name: C:\Downloaded Web Sites\стандофф-2.рф\index-2.htm
+Content Type: text/html
+
